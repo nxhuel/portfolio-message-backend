@@ -1,3 +1,3 @@
 # portfolio-message-backend
 
-portfolio-forntend=https://github.com/nxhuel/portfolio
+portfolio-frontend=https://github.com/nxhuel/portfolio
